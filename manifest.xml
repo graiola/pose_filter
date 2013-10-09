@@ -1,0 +1,16 @@
+<package>
+  <description brief="pose_filter">
+
+     pose_filter
+
+  </description>
+  <author>Gennaro Raiola</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url></url>
+  <depend package="roscpp"/>
+  <depend package="tf"/>
+
+</package>
+
+
